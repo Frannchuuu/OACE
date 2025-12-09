@@ -5,6 +5,7 @@ prompt Faraya $p^>
 ```
 <img width="490" height="215" alt="imagen" src="https://github.com/user-attachments/assets/95158939-42dd-46d5-b4da-9918fb29993b" />
 
+**Actividad 1. Crea el siguiente árbol de directorios siguiendo las instrucciones paso a paso. En cada uno de los pasos deberás transcribir todas y cada una de las sentencias utilizadas.**
 
 
 1.- Crea un directorio llamado iso en tu unidad c:\. Sitúate en el directorio iso de tu unidad (que será la unidad C). Desde el directorio iso crea los directorios (1_eval, teoria, t1, practica, p1a, p1b)
@@ -43,3 +44,17 @@ prompt Faraya $p^>
 <img width="382" height="107" alt="image" src="https://github.com/user-attachments/assets/9a367f7d-67d7-4e9c-9c35-6391835c0814" />
 
 10.- Desde aquí sitúa el directorio prac4 dentro del directorio prac3.
+
+<img width="378" height="151" alt="image" src="https://github.com/user-attachments/assets/c3211341-b2d0-4910-85a6-7bb68a847f04" />
+
+11.- Desde aquí elimina los directorios (1_eval, 3_eval)
+
+
+12.- Ejecuta la orden para visualizar el árbol de directorios y subdirectorios dependientes del directorio iso
+
+13.- Accede directamente a la raíz (a la unidad en la que te encuentras)
+
+
+**Actividad 2. - Crea el siguiente árbol de directorios siguiendo las instrucciones paso a paso. En cada paso deberás transcribir todas las sentencias utilizadas.**
+
+<img width="256" height="351" alt="image" src="https://github.com/user-attachments/assets/3c528bb9-8d7e-4a27-8489-b6809c661452" />
