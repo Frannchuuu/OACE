@@ -13,4 +13,33 @@ prompt Faraya $p^>
 
 2.- Sitúate en el directorio p1b. Crea los directorios (3_eval, teoriaa, teoriab) utilizando trayectorias relativas.
 
-<img width="396" height="211" alt="image" src="https://github.com/user-attachments/assets/16e98f9f-3131-4810-9094-bf4d16665671" />
+<img width="361" height="466" alt="image" src="https://github.com/user-attachments/assets/8d8769b6-5a01-4561-9142-e231149fa5da" />
+
+3.- Sitúate en el directorio iso. Crea el directorio (2_eval).
+
+<img width="383" height="454" alt="image" src="https://github.com/user-attachments/assets/f363b2db-6ced-4abb-be06-d247bf4bd59b" />
+
+4.- Sitúate en el directorio 2_eval. Crea los directorios (prac1, prac2, prac3) con una única sentencia.
+
+<img width="427" height="208" alt="image" src="https://github.com/user-attachments/assets/94256013-f3f6-433a-8691-a4854684a9f2" />
+
+5.- Sitúate en el directorio prac3. Crea los directorios (prac31, prac311) usando trayectorias relativas.
+
+<img width="315" height="162" alt="image" src="https://github.com/user-attachments/assets/accc504e-ef23-45af-b101-0d59e3f3e6e4" />
+
+6.- Accede al directorio iso usando trayectoria absoluta con una única sentencia.
+
+<img width="386" height="459" alt="image" src="https://github.com/user-attachments/assets/c20f5ea7-eeec-43f9-a027-65b891745f94" />
+
+7.- Desde iso elimina los directorios (prac311, prac31,teoriab, teoriaa, t1, p1b, p1a) utilizando trayectorias absolutas.
+
+
+8.- Accede al directorio 2_eval usando trayectoria relativa con una única sentencia.
+
+<img width="266" height="185" alt="image" src="https://github.com/user-attachments/assets/6d2b413b-7b8a-4817-96f3-4157a15782af" />
+
+9.- Desde aquí cambia el nombre del directorio prac1 por el de prac4.
+
+<img width="382" height="107" alt="image" src="https://github.com/user-attachments/assets/9a367f7d-67d7-4e9c-9c35-6391835c0814" />
+
+10.- Desde aquí sitúa el directorio prac4 dentro del directorio prac3.
