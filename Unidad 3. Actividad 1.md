@@ -33,7 +33,7 @@ prompt Faraya $p^>
 <img width="386" height="459" alt="image" src="https://github.com/user-attachments/assets/c20f5ea7-eeec-43f9-a027-65b891745f94" />
 
 7.- Desde iso elimina los directorios (prac311, prac31,teoriab, teoriaa, t1, p1b, p1a) utilizando trayectorias absolutas.
-
+ 
 
 8.- Accede al directorio 2_eval usando trayectoria relativa con una única sentencia.
 
@@ -50,10 +50,14 @@ prompt Faraya $p^>
 11.- Desde aquí elimina los directorios (1_eval, 3_eval)
 
 
+
 12.- Ejecuta la orden para visualizar el árbol de directorios y subdirectorios dependientes del directorio iso
+
+<img width="377" height="322" alt="imagen" src="https://github.com/user-attachments/assets/581b52c1-f79c-4a08-a442-978d98f52565" />
 
 13.- Accede directamente a la raíz (a la unidad en la que te encuentras)
 
+<img width="178" height="154" alt="imagen" src="https://github.com/user-attachments/assets/e5121502-3c09-4a64-b841-89c9064912fe" />
 
 **Actividad 2. - Crea el siguiente árbol de directorios siguiendo las instrucciones paso a paso. En cada paso deberás transcribir todas las sentencias utilizadas.**
 
