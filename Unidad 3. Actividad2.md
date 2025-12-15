@@ -8,8 +8,11 @@ Crea un directorio llamado SMM en la raíz de la Unidad C. Dentro de ese directo
 
 _1.- Situado en smm crea los directorios A, B, C y D. Utiliza trayectoria absoluta._
 
+<img width="448" height="203" alt="imagen" src="https://github.com/user-attachments/assets/e80443f9-8e57-435f-9d74-66ad64422e38" />
+
 
 _2.- Sitúate en D y desde allí crea A1, A2, A21, A22, A221 con una única sentencia utilizandotrayectoria relativa._
+
 
 
 _3.- Sitúate en A221 y desde allí crea B1, B11, B111, B112 con una única sentencia y utilizandotrayectoria relativa._
