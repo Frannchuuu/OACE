@@ -1,6 +1,6 @@
 `````N
 UNIDAD 3. ACTIVIDAD 2. EJERCICIOS CON FICHEROS
-rea un directorio llamado SMM en la raíz de la Unidad C. Dentro de ese directorio haz lossiguientes ejercicios:
+crea un directorio llamado SMM en la raíz de la Unidad C. Dentro de ese directorio haz lossiguientes ejercicios:
 
 <img width="448" height="417" alt="imagen" src="https://github.com/user-attachments/assets/95f00ff7-5e27-40ae-bfaf-1a2fed412c75" />
 
