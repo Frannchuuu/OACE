@@ -16,7 +16,9 @@ c:\iso\mkdir 1_eval
 img width="478" height="539" alt="image" src="https://github.com/user-attachments/assets/220b93ec-1621-4682-9b69-c721bb8a7a65" />
 
 2.- Sitúate en el directorio p1b. Crea los directorios (3_eval, teoriaa, teoriab) utilizando trayectorias relativas.
-
+```
+c:\iso\pb1 ..\..\..\..\mkdir 3_eval
+````
 <img width="361" height="466" alt="image" src="https://github.com/user-attachments/assets/8d8769b6-5a01-4561-9142-e231149fa5da" />
 
 3.- Sitúate en el directorio iso. Crea el directorio (2_eval).
