@@ -34,7 +34,9 @@ c:\iso\1_eval\2_eval\..\mkdir prac1\prac2\prac3
 <img width="427" height="208" alt="image" src="https://github.com/user-attachments/assets/94256013-f3f6-433a-8691-a4854684a9f2" />
 
 5.- Sitúate en el directorio prac3. Crea los directorios (prac31, prac311) usando trayectorias relativas.
-
+```
+c:\iso\2_eval\prac3\mkdir prac31\prac311
+````
 <img width="315" height="162" alt="image" src="https://github.com/user-attachments/assets/accc504e-ef23-45af-b101-0d59e3f3e6e4" />
 
 6.- Accede al directorio iso usando trayectoria absoluta con una única sentencia.
