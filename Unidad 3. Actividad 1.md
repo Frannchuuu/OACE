@@ -22,7 +22,9 @@ c:\iso\pb1\>mkdir ..\..\..\..\3_eval\teoriaa ..\..\..\..\3_eval\teoriab
 <img width="361" height="466" alt="image" src="https://github.com/user-attachments/assets/8d8769b6-5a01-4561-9142-e231149fa5da" />
 
 3.- Sitúate en el directorio iso. Crea el directorio (2_eval).
-
+```
+c:\iso\mkdir 2_eval
+````
 <img width="383" height="454" alt="image" src="https://github.com/user-attachments/assets/f363b2db-6ced-4abb-be06-d247bf4bd59b" />
 
 4.- Sitúate en el directorio 2_eval. Crea los directorios (prac1, prac2, prac3) con una única sentencia.
