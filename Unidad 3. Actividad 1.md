@@ -28,7 +28,9 @@ c:\iso\mkdir 2_eval
 <img width="383" height="454" alt="image" src="https://github.com/user-attachments/assets/f363b2db-6ced-4abb-be06-d247bf4bd59b" />
 
 4.- Sitúate en el directorio 2_eval. Crea los directorios (prac1, prac2, prac3) con una única sentencia.
-
+```
+c:\iso\1_eval\2_eval\..\mkdir prac1\prac2\prac3
+````
 <img width="427" height="208" alt="image" src="https://github.com/user-attachments/assets/94256013-f3f6-433a-8691-a4854684a9f2" />
 
 5.- Sitúate en el directorio prac3. Crea los directorios (prac31, prac311) usando trayectorias relativas.
