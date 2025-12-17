@@ -1,4 +1,4 @@
-`````
+
 UNIDAD 3. ACTIVIDAD 2. EJERCICIOS CON FICHEROS
 crea un directorio llamado SMM en la raíz de la Unidad C. Dentro de ese directorio haz lossiguientes ejercicios:
 
