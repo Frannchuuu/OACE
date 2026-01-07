@@ -40,27 +40,55 @@ c:\iso\2_eval\prac3\mkdir prac31\prac311
 <img width="315" height="162" alt="image" src="https://github.com/user-attachments/assets/accc504e-ef23-45af-b101-0d59e3f3e6e4" />
 
 6.- Accede al directorio iso usando trayectoria absoluta con una única sentencia.
-
+```
+c:\iso
+```
 <img width="386" height="459" alt="image" src="https://github.com/user-attachments/assets/c20f5ea7-eeec-43f9-a027-65b891745f94" />
 
 7.- Desde iso elimina los directorios (prac311, prac31,teoriab, teoriaa, t1, p1b, p1a) utilizando trayectorias absolutas.
- 
+```
+c:\iso>rd /s c:\iso\1_eval\practica\p1a
 
+c:\iso>rd /s c:\iso\3_eval\teoriaa
+
+c:\iso\3_eval\teoriaa, ¿Está seguro (S/N)? S
+
+c:\iso>rd /s c:\iso\3_eval\teoriab
+
+c:\iso\3_eval\teoriab, ¿Está seguro (S/N)? S
+
+c:\iso>rd /s c:\iso\1_eval\teoria\t1
+
+c:\iso\1_eval\teoria\t1, ¿Está seguro (S/N)? S
+
+c:\iso>rd /s c:\iso\2_eval\prac3\prac31
+
+c:\iso\2_eval\prac3\prac31, ¿Está seguro (S/N)? S 
+```
 8.- Accede al directorio 2_eval usando trayectoria relativa con una única sentencia.
+```
+c:\iso>cd 2_eval
 
+c:\iso\2_eval> 
+```
 <img width="266" height="185" alt="image" src="https://github.com/user-attachments/assets/6d2b413b-7b8a-4817-96f3-4157a15782af" />
 
 9.- Desde aquí cambia el nombre del directorio prac1 por el de prac4.
-
+```
+c:\iso\2_eval>rename prac1 prac4
+```
 <img width="382" height="107" alt="image" src="https://github.com/user-attachments/assets/9a367f7d-67d7-4e9c-9c35-6391835c0814" />
 
 10.- Desde aquí sitúa el directorio prac4 dentro del directorio prac3.
-
+```
+c:\iso\2_eval>move prac2 prac4
+```
 <img width="378" height="151" alt="image" src="https://github.com/user-attachments/assets/c3211341-b2d0-4910-85a6-7bb68a847f04" />
 
 11.- Desde aquí elimina los directorios (1_eval, 3_eval)
-
-
+```
+c:\iso\2_eval>rd /s /q c:\iso\1_eval ..\3_eval 
+```
 
 12.- Ejecuta la orden para visualizar el árbol de directorios y subdirectorios dependientes del directorio iso
 
