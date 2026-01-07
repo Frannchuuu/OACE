@@ -89,6 +89,7 @@ c:\iso\2_eval>move prac2 prac4
 ```
 c:\iso\2_eval>rd /s /q c:\iso\1_eval ..\3_eval 
 ```
+<img width="720" height="348" alt="imagen" src="https://github.com/user-attachments/assets/4fbd6c04-c3bd-486d-8378-60232ee2c9c5" />
 
 12.- Ejecuta la orden para visualizar el árbol de directorios y subdirectorios dependientes del directorio iso
 ```
