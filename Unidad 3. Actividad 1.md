@@ -91,11 +91,17 @@ c:\iso\2_eval>rd /s /q c:\iso\1_eval ..\3_eval
 ```
 
 12.- Ejecuta la orden para visualizar el árbol de directorios y subdirectorios dependientes del directorio iso
-
+```
+c:\iso\2_eval>tree c:\iso
+```
 <img width="377" height="322" alt="imagen" src="https://github.com/user-attachments/assets/581b52c1-f79c-4a08-a442-978d98f52565" />
 
 13.- Accede directamente a la raíz (a la unidad en la que te encuentras)
+```
+c:\iso\2_eval>cd\
 
+c:\> 
+```
 <img width="178" height="154" alt="imagen" src="https://github.com/user-attachments/assets/e5121502-3c09-4a64-b841-89c9064912fe" />
 
 **Actividad 2. - Crea el siguiente árbol de directorios siguiendo las instrucciones paso a paso. En cada paso deberás transcribir todas las sentencias utilizadas.**
