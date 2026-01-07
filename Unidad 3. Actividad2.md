@@ -5,13 +5,25 @@ crea un directorio llamado SMM en la raíz de la Unidad C. Dentro de ese directo
 "<img width="448" height="417" alt="imagen" src="https://github.com/user-attachments/assets/95f00ff7-5e27-40ae-bfaf-1a2fed412c75" />
 
 _1.- Situado en smm crea los directorios A, B, C y D. Utiliza trayectoria absoluta._
-
+```
+c:\smm>md c:\smm\A,B,C,D
+```
 "<img width="90" height="333" alt="imagen" src="https://github.com/user-attachments/assets/c1755b3a-22d0-4361-a758-c6c7e52d8fc5" />
 
 _2.- Sitúate en D y desde allí crea A1, A2, A21, A22, A221 con una única sentencia utilizandotrayectoria relativa._
-
+```
+c:\smm\D>md ..\A\A1 ..\A\A2\ ..\A\A2\A21 ..\A\A2\A22\A221 
+```
+<img width="229" height="114" alt="imagen" src="https://github.com/user-attachments/assets/c9207375-c414-4969-9e40-cca25bb208b2" />
 
 _3.- Sitúate en A221 y desde allí crea B1, B11, B111, B112 con una única sentencia y utilizandotrayectoria relativa._
+```
+c:\smm>cd A\A2\A22\A221
 
+c:\smm\A\A2\A22\A221>
+
+c:\smm\A\A2\A22\A221>md ..\..\..\..\B\B1\B11\B111 ..\..\..\..\B\B1\B11\B112 
+```
+<img width="229" height="97" alt="imagen" src="https://github.com/user-attachments/assets/e4022f05-8d86-4132-afef-97fb8becdb0e" />
 
 _4.- Estando situado en A221, crea un fichero llamado líneas.txt en el directorio C que contenga elárbol de directorios dependiente del directorio A (incluyendo los subdirectorios)._
