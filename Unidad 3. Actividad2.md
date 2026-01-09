@@ -27,3 +27,36 @@ c:\smm\A\A2\A22\A221>md ..\..\..\..\B\B1\B11\B111 ..\..\..\..\B\B1\B11\B112
 <img width="229" height="97" alt="imagen" src="https://github.com/user-attachments/assets/e4022f05-8d86-4132-afef-97fb8becdb0e" />
 
 _4.- Estando situado en A221, crea un fichero llamado líneas.txt en el directorio C que contenga elárbol de directorios dependiente del directorio A (incluyendo los subdirectorios)._
+```
+C:\smm\A\A2\A22\A221>tree c:\smm\A > c:\smm\c\lineas.txt 
+```
+<img width="241" height="113" alt="imagen" src="https://github.com/user-attachments/assets/db24d26d-c42e-43c4-a0a4-a3368f8e180a" />
+
+5.- Crea en D un fichero llamado Nombre.txt que contenga tu nombre y otro fichero llamado Apellido.txt que contenga tu primer apellido.
+```
+C:\smm\A\A2\A22\A221> > c:\smm\D\Nombre.txt
+
+C:\smm\A\A2\A22\A221> > c:\smm\D\Apellido.txt 
+```
+<img width="407" height="397" alt="imagen" src="https://github.com/user-attachments/assets/5cc9c34a-278d-4e5d-921f-9be6d5483b43" />
+
+6.- Genera un fichero llamado union.txt en D que contenga el contenido de Nombre.txt y Apellido.txt 
+```
+C:\smm\D>type nombre.txt >> union.txt
+
+C:\smm\D>type apellido.txt >> union.txt
+```
+<img width="311" height="205" alt="imagen" src="https://github.com/user-attachments/assets/a2f5b74e-88f2-4db3-9f73-785e56589e72" />
+
+7.- Mueve el fichero union.txt a A21.
+```
+C:\smm\D>move union.txt ..\A\A2\A21\
+```
+<img width="407" height="397" alt="imagen" src="https://github.com/user-attachments/assets/fa56a122-04b5-4960-b1e7-f8b411ab5945" />
+
+8.- Mueve el directorio A2 dentro de C.
+```
+move C:\smm\A\A2 c:\smm\C\
+```
+**<img width="407" height="93" alt="imagen" src="https://github.com/user-attachments/assets/57fbe764-b387-49dd-92e1-8e0059a9405a" />
+**
