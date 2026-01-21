@@ -66,22 +66,3 @@ fran C:\examencmd>del .txt *
 ´´
 12. 
 HECHOS EN LA HOJA
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
